@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Edge(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pixel\r\n
+comment1.params=
+comment1.target=java.lang.String\ getA()
+comment2.params=
+comment2.target=java.lang.String\ getB()
+comment3.params=s
+comment3.target=void\ setA(java.lang.String)
+comment4.params=s
+comment4.target=void\ setB(java.lang.String)
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ \ \ two\ edges\ are\ equal\ iff\ they\ have\ the\ same\ beginning\ vertex\ and\ same\ ending\ vertex\r\n\ \ \ \r\n\ \ \ Edge\ (v,\ w)\ is\ not\ equals\ to\ Edge\ (w,\ v)\r\n
+comment6.params=
+comment6.target=int\ hashCode()
+numComments=7
